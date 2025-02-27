@@ -14,9 +14,9 @@
     "pdf.js"
   ],
   "repository": "wearemothership/react-fast-scroll-pdf",
-  "main": "dist/index.js",
-  "module": "dist/index.module.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.tsx",
+  "module": "src/index.tsx",
+  "types": "src/index.tsx",
   "engines": {
     "node": ">=18",
     "npm": ">=9"
