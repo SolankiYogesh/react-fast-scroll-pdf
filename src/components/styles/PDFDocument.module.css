@@ -1,8 +1,5 @@
 .pdfDocument {
-	overflow-y: scroll;
-	overflow-x: hidden;
 	width: 100%;
-	flex: 1
 }
 
 .viewer {
