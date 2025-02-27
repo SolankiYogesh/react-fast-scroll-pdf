@@ -16,7 +16,6 @@
   "repository": "wearemothership/react-fast-scroll-pdf",
   "main": "src/index.tsx",
   "module": "src/index.tsx",
-  "types": "src/index.tsx",
   "engines": {
     "node": ">=18",
     "npm": ">=9"
@@ -86,11 +85,4 @@
       "@babel/plugin-transform-runtime"
     ]
   },
-  "exports": {
-    ".": {
-      "require": "./dist/index.js",
-      "default": "./dist/index.module.js",
-      "types": "./dist/index.d.ts"
-    }
-  }
 }
